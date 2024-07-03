@@ -1,0 +1,15 @@
+BBBBBBBBBBBAAAAAAAAA # - Colocar comantarios siempre fuera del mapa
+B         BA       A # - Al colocar este símbolo (#) la clase mapa ignorará lo que le siga.
+B                  A  # De esta manera se evitarán errores.
+B         BA       A #
+BBBBBBBB BBA       A # ---- M U Y   I M P O R T A N T E ----
+CCCCCCCC CCA       A # HÁGASE EL MAPA DE LA MISMA MANERA EN ESTE ARCHIVO
+C         CA       A # NO COLOCAR COMENTARIOS ANTES DEL MAPA, SINO NO FUNCIONARÁ
+C    B    CA       A
+C    B    CA       A
+C    B    CA       A
+C         CA       A
+C  B      CA       A
+C  B               A
+C  B      CA       A
+CCCCCCCCCCCAAAAAAAAA # SEPARAR LOS COMENTARIOS DESPUÉS DE LA LÍNEA DE MAPA CON TAB, NO ESPACIO
